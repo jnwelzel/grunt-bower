@@ -1,0 +1,20 @@
+{
+  "name": "grunt-bower",
+  "version": "0.0.1",
+  "description": "Sample web app showcasing Grunt and Bower integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnwelzel/grunt-bower.git"
+  },
+  "keywords": [
+    "grunt",
+    "bower",
+    "nodejs"
+  ],
+  "author": "Jonathan Welzel (jonwelzel@inkdroplabs.com)",
+  "license": "MIT"
+}
