@@ -16,5 +16,12 @@
     "nodejs"
   ],
   "author": "Jonathan Welzel (jonwelzel@inkdroplabs.com)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-contrib-sass": "~0.7.3",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-watch": "~0.6.1"
+  }
 }
